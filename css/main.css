@@ -1,0 +1,335 @@
+.nave {
+  background-color: #00b359;
+  padding: 3em;
+  margin-botom: 5%; 
+}
+
+header {
+  background-image: url(../img/carousel-bg.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat; 
+}
+
+h1 {
+  text-transform: uppercase;
+  color: #ffffff;
+  font-size: 5em;
+  margin-top: 1em; 
+}
+
+.ts {
+  color: #ffffff;
+  font-size: 2em;
+  margin-top: 1em; 
+}
+
+h2 {
+  text-transform: uppercase; 
+}
+
+.row {
+  margin-top: 1em; 
+}
+
+.colores1 {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #69d2e7; 
+}
+
+.colores2 {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #a7dbdb; 
+}
+
+.colores3 {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #e0e4cc; 
+}
+
+.colores4 {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #f38630; 
+}
+
+.colores5 {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #fa6900; 
+}
+
+.colores6 {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background: #e94c6f; 
+}
+
+.colores7 {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #542733; 
+}
+
+.colores8 {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #5a6a62; 
+}
+
+.colores9 {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  bacground-color: #c6d5cd; 
+}
+
+.coloresdi {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #fdf200; 
+}
+
+.coloreson {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #db3340; 
+}
+
+.coloresdo {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #e8b71a; 
+}
+
+.colorestr {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #f7eac8; 
+}
+
+.coloresca {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #f1da9a; 
+}
+
+.coloresqi {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-colors: #28ab3e; 
+}
+
+.coloresse {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #588c73; 
+}
+
+.coloresds {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #f2e394; 
+}
+
+.coloresdo {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #f2ae72; 
+}
+
+.coloresdn {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #d96459; 
+}
+
+.coloresve {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #8c4646; 
+}
+
+.coloresvu {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #d0c91f; 
+}
+
+.coloresvd {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #85c4b9; 
+}
+
+.coloresvt {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #008bba; 
+}
+
+.coloresvc {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #df514c; 
+}
+
+.coloresci {
+  width: 14em;
+  height: 9em;
+  padding: 2em;
+  background: gray;
+  background-color: #dc404b; 
+}
+
+.azul {
+  background-color: #19334d; 
+}
+
+.segu {
+  text-transform: uppercase;
+  color: #ffffff;
+  font-size: 5em;
+  margin-top: 1em; 
+}
+
+.image {
+  width: 82%;
+  height: 35%; 
+}
+
+.ima {
+  width: 100%;
+  height: auto; 
+}
+
+.txt {
+  color: #b8b8b8; 
+}
+
+.vrd {
+  background-color: #00b359; 
+}
+
+.sbt3 {
+  text-transform: uppercase;
+  color: #ffffff;
+  font-size: 5em;
+  margin-top: 1em;
+  font-size: 3em; 
+}
+
+.uni {
+  color: #ffffff; 
+}
+
+.pimags {
+  width: 26%;
+  height: 26%;
+  margin-left: 9em; 
+}
+
+.fond {
+  background-color: #19334d; 
+}
+
+.mrg {
+  margin-top: 3em;
+  margin-bottom: 6em; 
+}
+
+.btn {
+  margin-left: 45%;
+  margin-top: 8em;
+  margin-bottom: 9em;
+  background-color: #686868; 
+}
+
+.marl {
+  margin-left: 3em; 
+}
+
+.mb {
+  margin-bottom: 8em; 
+}
+
+.sub {
+  color: #ffffff;
+  font-size: 2em;
+  margin-top: 1em; 
+}
+
+.bord {
+  border: 1px solid #00b359; 
+}
+
+.cf {
+  background-color: #86592d;
+  height: 3em;
+  padding: 2px; 
+}
+
+.gr {
+  height: 6em; 
+}
+
+.clic-4 {
+  background: #686868;
+  border: none; 
+}
+
+.bln {
+  background-color: #ffffff;
+  height: 3em;
+}
+
+/*# sourceMappingURL=main.css.map */

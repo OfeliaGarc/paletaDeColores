@@ -1,0 +1,237 @@
+$colorhed: #00b359;
+$colrbl: #ffffff;
+$may: uppercase;
+$pri: #69d2e7;
+$seg: #a7dbdb;
+$ter: #e0e4cc;
+$cuar: #f38630;
+$quin: #fa6900;
+$sext: #e94c6f;
+$sep: #542733;
+$oct: #5a6a62;
+$nov: #c6d5cd;
+$zer: #fdf200;
+$onc: #db3340;
+$doc: #e8b71a;
+$tre: #f7eac8;
+$cat: #f1da9a;
+$qui: #28ab3e;
+$dse: #588c73;
+$dsi: #f2e394;
+$doch: #f2ae72;
+$dnu: #d96459;
+$vei: #8c4646;
+$vun: #d0c91f;
+$vdo: #85c4b9;
+$vtr: #008bba;
+$vcu: #df514c;
+$vci: #dc404b;
+$sec2: #19334d;
+$gri: #b8b8b8;
+$vde: #00b359;
+$gr: #686868;
+$caf: #86592d;
+$px: 1px;
+$px2: 2px;
+$tres: 3em;
+$cuat: 4em;
+$sei: 6em;
+$sie: 7em;
+$och: 8em;
+$nue: 9em;
+$cci: 45%;
+@mixin colors {
+	width: 14em;
+	height:9em;
+	padding: 2em;
+	background: gray;
+}
+@mixin subti {
+text-transform: uppercase;
+color: $colrbl;
+font-size: 5em;
+margin-top: 1em;	
+}
+@mixin imgmed {
+	width: 82%;
+	height: 35%;
+}
+@mixin images {
+	width: 100%;
+	height: auto;
+}
+@mixin textsub {
+	color: $colrbl;
+	font-size: 2em;
+	margin-top: 1em;
+}
+
+@mixin peque {
+	width: 26%;
+	height: 26%;
+}
+.nave {
+	background-color: $colorhed;
+	padding: $tres;
+	margin-botom: 5%;}
+header {
+background-image: url(../img/carousel-bg.jpg);
+background-size: 100%;
+background-repeat: no repeat;}
+h1 {
+@include subti;
+}
+.ts {
+@include textsub;
+}
+h2 {
+text-transform: $may;
+}
+.row {
+	margin-top: 1em;
+}
+.colores1 {
+	@include colors;
+	background-color: $pri;}
+.colores2 {
+	@include colors;
+	background-color: $seg;}
+.colores3 {
+	@include colors; 
+	background-color: $ter;}
+.colores4 {
+	@include colors;
+	background-color: $cuar;}
+.colores5 {
+	@include colors;
+	background-color: $quin;}
+.colores6 {
+	@include colors;
+	background: $sext;}
+.colores7 {
+	@include colors;
+	background-color: $sep;}
+.colores8 {
+	@include colors;
+	background-color: $oct;}
+.colores9 {
+	@include colors;
+	bacground-color: $nov;}
+.coloresdi {
+	@include colors;
+	background-color: $zer;}
+.coloreson{
+	@include colors; 
+	background-color: $onc;}
+.coloresdo {
+	@include colors;
+	background-color: $doc;}
+.colorestr {
+	@include colors;
+	background-color: $tre;}
+.coloresca {
+	@include colors;
+	background-color: $cat;}
+.coloresqi {
+	@include colors;
+	background-colors: $qui;}
+.coloresse {
+	@include colors;
+	background-color: $dse;}
+.coloresds {
+	@include colors;
+	background-color: $dsi;}
+.coloresdo {
+	@include colors;
+	background-color: $doch;}
+.coloresdn {
+	@include colors;
+	background-color: $dnu;}
+.coloresve {
+	@include colors;
+	background-color: $vei;}
+.coloresvu {
+	@include colors;
+	background-color: $vun;}
+.coloresvd {
+	@include colors;
+	background-color: $vdo;}
+.coloresvt {
+	@include colors;
+	background-color: $vtr;}
+.coloresvc {
+	@include colors;
+	background-color: $vcu;}
+.coloresci {
+	@include colors;
+	background-color: $vci;}
+.azul {
+	background-color: $sec2;
+}
+.segu {
+	@include subti;
+}
+.image {
+	@include imgmed;
+}
+.ima {
+	@include images;
+}
+.txt {
+	color: $gri;
+}
+.vrd {
+	background-color: $vde;
+}
+.sbt3 {
+	@include subti;
+	font-size: $tres;
+}
+.uni {
+	color: $colrbl;
+}
+.pimags {
+	@include peque;
+	margin-left: $nue
+}
+.fond {
+	background-color: $sec2;
+}
+.mrg {
+	margin-top: $tres;
+	margin-bottom: $sei;
+}
+.btn {
+	margin-left: $cci;
+	margin-top: $och;
+	margin-bottom: $nue;
+	background-color: $gr;
+}
+.marl {
+	margin-left: $tres;
+}
+.mb {
+	margin-bottom: $och;
+}
+.sub {
+	@include textsub;
+}
+.bord {
+	border: $px solid $vde;
+}
+.cf {
+	background-color: $caf;
+	height: $tres;
+	padding: $px2;
+}
+.gr {
+	height: $sei;
+}
+.clic-4 {
+	background: $gr;
+	border: none;
+}
+.bln {
+	background-color: $colrbl;
+	height: $tres;
+}
